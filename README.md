@@ -94,7 +94,6 @@ Bonus Part:
 What I Learned:
 * How to design safe and effective abstract interfaces
 * Managing deep vs shallow copies in polymorphic classes
-* The need for the Rule of Three/Five when working with heap-allocated members
 * Runtime **polymorphism** through base class pointers and references
 
 ## C++ Module 05 – Exceptions and Error Handling
